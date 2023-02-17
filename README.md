@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-This repository features a car price prediction model trained on a dataset of used car information. The machine learning algorithm can predict the selling price of a car based on its characteristics, such as make, model, year, and mileage.
+This repository contains a car price prediction model that is trained to predict the selling price of used cars based on their characteristics. The model is built using a machine learning algorithm and is trained on a dataset of used car information. The repository includes the code for data cleaning, preprocessing, training the model, and evaluating its performance. The goal of this project is to provide a tool that can help car buyers and sellers make informed decisions about pricing.
